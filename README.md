@@ -1,7 +1,6 @@
 # lab-OOP00
 this is my first repo
 
-name Pathipat Mattra
-id 653450293-2
-
-phone 191
+Pathipat Mattra
+653450293-2
+pathipat.m@kkumail.com
